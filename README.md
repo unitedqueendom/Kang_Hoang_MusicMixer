@@ -6,15 +6,15 @@
 Download the file and open html file to play.
 
 ## Tool Used:
-CSS
-JavaScript
+CSS;
+JavaScript;
 HTML5
 
 ## Software Used:
-Photoshop
-Illustrator
+Photoshop;
+Illustrator;
 Sublime Text
 
 ## Authors:
-Zepeng Kang
+Zepeng Kang;
 Cao Hoang
